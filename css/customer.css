@@ -1,0 +1,26 @@
+.navbar{
+    padding: 0.5rem 0.7rem !important;
+}
+
+.nav-item{
+    font-family: 'Sarabun', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-family: 'Sarabun', sans-serif;
+}
+
+.text.center{
+    font-family: 'Sarabun', sans-serif;
+}
+
+.texthead{
+    font-family: 'Sarabun', sans-serif;
+}
+
+.underline{
+    width: 120px;
+    height: 4px;
+    background-color: rebeccapurple;
+}
